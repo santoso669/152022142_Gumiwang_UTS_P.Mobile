@@ -1,0 +1,38 @@
+name: uts
+description: "Aplikasi UTS Pemrograman Mobile - Flutter"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons iOS-style
+  cupertino_icons: ^1.0.8
+
+  # Paket untuk memutar video dari assets
+  video_player: ^2.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Gambar dan video yang digunakan
+    - assets/foto.jpg
+    - assets/foto_profil.jpg
+    - assets/images/
+    - assets/icons/
+    - assets/images/cuaca.mp4
+    - assets/images/berita1.jpg
+    - assets/images/berita2.jpg
+    - assets/images/berita3.jpg
+
