@@ -74,7 +74,7 @@ Halaman Kontak sudah terdiri dari daftar telepon yang terdaftar secara statis, l
 
 Halaman Kalkulator
 =
-Halaman Kalkulator dengan desain menyerupai kalkulator smartphone
+Halaman Kalkulator dengan desain menyerupai kalkulator smartphone, dan sudah ada operasi matematika( kali,tambah, kurang,bagi)
 
 ![WhatsApp Image 2025-11-05 at 08 17 38_fed42e21](https://github.com/user-attachments/assets/e898f81c-644e-45df-9add-69e6d5b8e598)
 
